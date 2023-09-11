@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marina-klemm
-- 👀 I’m interested in RNA-seq and differential expression analysis
-- 🌱 I’m currently learning how to code in R and bash for my PhD project
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in all things data, in particular from biological sources
+- 🌱 I mostly code in R and Python, which I learned to analyse RNA-seq data for my PhD project
 - 📫 How to reach me at marinaklemm@gmail.com
 
 <!---
